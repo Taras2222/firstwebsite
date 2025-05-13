@@ -57,7 +57,7 @@ h2 {
 .booking form {
   max-width: 400px;
   margin: auto;
-  display: contents;
+  display: flexbox;
   flex-direction: column;
   gap: 1em;
 }
